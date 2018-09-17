@@ -12,14 +12,64 @@ var myApp = new Framework7({
 	material: true,
 	routes: [
 		{
-		path: '/home/',
-    	url: 'index.html',
-    	name: 'home',
+		path: '/indexfrist/',
+    	url: 'indexfrist.html',
+    	name: 'indexfrist',
   		},
 		{
-		path: '/productos/',
-    	url: 'productos.html',
-    	name: 'productos',
+		path: '/envivo/',
+    	url: 'envivo.html',
+    	name: 'envivo',
+  		},
+		{
+		path: '/noticias/',
+    	url: 'noticias.html',
+    	name: 'noticias',
+  		},
+		{
+		path: '/tvcplay/',
+    	url: 'tvcplay.html',
+    	name: 'tvcplay',
+  		},
+		{
+		path: '/programas/',
+    	url: 'programas.html',
+    	name: 'programas',
+  		},
+		{
+		path: '/deportes/',
+    	url: 'deportes.html',
+    	name: 'deportes',
+  		},
+		{
+		path: '/about/',
+    	url: 'about.html',
+    	name: 'about',
+  		},
+		{
+		path: '/setting/',
+    	url: 'setting.html',
+    	name: 'setting',
+  		},
+		{
+		path: '/aboutdulce/',
+    	url: 'aboutdulce.html',
+    	name: 'aboutdulce',
+  		},
+		{
+		path: '/aboutindira/',
+    	url: 'aboutindira.html',
+    	name: 'aboutindira',
+  		},
+		{
+		path: '/aboutdaniel/',
+    	url: 'aboutdaniel.html',
+    	name: 'aboutdaniel',
+  		},
+		{
+		path: '/aboutgeraldine/',
+    	url: 'aboutgeraldine.html',
+    	name: 'aboutgeraldine',
   		}
 	]
 });
