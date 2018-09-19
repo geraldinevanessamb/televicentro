@@ -140,6 +140,26 @@ var myApp = new Framework7({
 		path: '/eltoque/',
     	url: 'eltoque.html',
     	name: 'eltoque',
+  		},
+		{
+		path: '/noticias1/',
+    	url: 'noticias1.html',
+    	name: 'noticias1',
+  		},
+		{
+		path: '/noticias2/',
+    	url: 'noticias2.html',
+    	name: 'noticias2',
+  		},
+		{
+		path: '/noticias3/',
+    	url: 'noticias3.html',
+    	name: 'noticias3',
+  		},
+		{
+		path: '/noticias4/',
+    	url: 'noticias4.html',
+    	name: 'noticias4',
   		}
 	]
 });
