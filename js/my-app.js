@@ -70,6 +70,76 @@ var myApp = new Framework7({
 		path: '/aboutgeraldine/',
     	url: 'aboutgeraldine.html',
     	name: 'aboutgeraldine',
+  		},
+		{
+		path: '/tvcplay1/',
+    	url: 'tvcplay1.html',
+    	name: 'tvcplay1',
+  		},
+		{
+		path: '/5deportivo/',
+    	url: '5deportivo.html',
+    	name: '5deportivo',
+  		},
+		{
+		path: '/frente/',
+    	url: 'frente.html',
+    	name: 'frente',
+  		},
+		{
+		path: '/vivo/',
+    	url: 'vivo.html',
+    	name: 'vivo',
+  		},
+		{
+		path: '/novela1/',
+    	url: 'novela1.html',
+    	name: 'novela1',
+  		},
+		{
+		path: '/novela2/',
+    	url: 'novela2.html',
+    	name: 'novela2',
+  		},
+		{
+		path: '/novela3/',
+    	url: 'novela3.html',
+    	name: 'novela3',
+  		},
+		{
+		path: '/novela4/',
+    	url: 'novela4.html',
+    	name: 'novela4',
+  		},
+		{
+		path: '/5deportivo/',
+    	url: '5deportivo.html',
+    	name: '5deportivo',
+  		},
+		{
+		path: '/deporte1/',
+    	url: 'deporte1.html',
+    	name: 'deporte1',
+  		},
+		{
+		path: '/deporte2/',
+    	url: 'deporte2.html',
+    	name: 'deporte2',
+  		},
+		{
+		path: '/deporte3/',
+    	url: 'deporte3.html',
+    	name: 'deporte3',
+  		},
+		{
+		path: '/deporte4/',
+    	url: 'deporte4.html',
+    	name: 'deporte4',
+  		},
+		{
+		path: '/eltoque/',
+    	url: 'eltoque.html',
+    	name: 'eltoque',
   		}
 	]
 });

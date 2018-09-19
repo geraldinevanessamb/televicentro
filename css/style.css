@@ -5,7 +5,7 @@ body{
 }
 
 .bg-perfil{
-	background-color: #00144B;
+	background-color: #000000;
 	color: #FDFDD1;
 	padding: 20px 20px !important;
 	margin:0 !important;
@@ -17,7 +17,7 @@ body{
 	line-height:100px;
 	display: block;
 	font-size:18px;
-	background-color: #012077;
+	background-color: #000000;
 	text-align:center;
 	border-radius:100px;
 }
@@ -105,3 +105,18 @@ body{
 .link{
 	font-size: 14px !important;
 }
+
+#sec-social{
+	display: block;
+	font-size:18px;
+	background-color: #000000;
+	text-align:center;
+	color: white;
+}
+
+#sec-social p{
+	color: white;
+	font-size: 15px;
+	padding: 0px 40px !important;
+}
+ 
